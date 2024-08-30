@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me DM me at https://ca.linkedin.com/in/parminder-kaur-02b5b2101
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I could never figured out this out so far for my profiles :)
+- ⚡ Fun fact: I could never figured out this so far for my profiles :)
 
 <!---
 pkaur2024/pkaur2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
